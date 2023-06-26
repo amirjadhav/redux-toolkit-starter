@@ -5,7 +5,7 @@ const CounterValue = () => {
 
   return (
     <>
-      <h1>COunter value is {count}</h1>
+      <h1>Counter value is {count}</h1>
     </>
   );
 };
